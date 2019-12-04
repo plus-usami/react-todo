@@ -18,7 +18,7 @@ class App extends Component {
         completed: false
       },{
         id: 3,
-        title: 'コーディング確認',
+        title: 'コーディングチェック',
         completed: false
       }
     ]
